@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a senior at St. Lawrence University in Canton, NY. I am double majoring in Statistics and Mathematics.
+
 <!--
 **benmool/benmool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
